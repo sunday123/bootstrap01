@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+@media (min-width: 576px)
+.bd-example {
+    padding: 1.5rem;
+    border-width: .2rem;
+}
+.bd-example {
+    position: relative;
+    padding: 1rem;
+    margin: 1rem -15px 0;
+    border: solid #f8f9fa;
+    border-width: .2rem 0 0;
+}
+.bd-example-container-fluid {
+    max-width: none;
+}
+
+.bd-example-container {
+    min-width: 8rem;
+    max-width: 125rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.bd-example-container-header {
+    height: 3rem;
+    margin-bottom: .5rem;
+    background-color: #666;
+    border-radius: .25rem;
+}
+.bd-example-container-sidebar {
+    float: right;
+    width: 8rem;
+    height: 8rem;
+    background-color: #80bdff;
+    border-radius: .75rem;
+}
+.bd-example-container-body {
+    height: 8rem;
+    margin-right: 10.5rem;
+    background-color: #957bbe;
+    border-radius: .75rem;
+}
+
+.dropdown-menu {
+	background-color:#777;
+    color:#6c757d;
+}
